@@ -4,7 +4,9 @@
 <?php include 'connect.php' ?>
 
 <div class="container mt-5">
-<h1>ข้อมูล student3</h1>
+<h1>Page index</h1>
+<h1>Page for server</h1>
+<h1>Page for server111</h1>
     <table class = "table table-bordered" >
         <tr>
             <th>รหัสนักเรียน</th>
